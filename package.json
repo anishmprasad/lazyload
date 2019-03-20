@@ -1,0 +1,24 @@
+{
+  "name": "lazyload",
+  "version": "1.0.0",
+  "description": "a react lazyload component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishmprasad/lazyload.git"
+  },
+  "keywords": [
+    "lazyload",
+    "react",
+    "react-component"
+  ],
+  "author": "anish.m.prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishmprasad/lazyload/issues"
+  },
+  "homepage": "https://github.com/anishmprasad/lazyload#readme"
+}
