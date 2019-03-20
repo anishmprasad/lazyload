@@ -2,9 +2,9 @@
 	"name": "lazyload",
 	"version": "1.0.0",
 	"description": "a react lazyload component",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"scripts": {
-		"rollup":"rollup -c"
+		"rollup": "rollup -c"
 	},
 	"repository": {
 		"type": "git",
